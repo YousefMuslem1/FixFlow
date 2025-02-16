@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c59558c-0b66-4d67-8a97-bccf6da522cc" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/public/datatables/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/css/dataTables.autoFill.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/css/dataTables.autoFill.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/complete-callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/fill-both.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/fill-horizontal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/examples/step-callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/images/filler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/js/dataTables.autoFill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/AutoFill/js/dataTables.autoFill.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/css/dataTables.colReorder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/css/dataTables.colReorder.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/alt_insert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/col_filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/colvis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/fixedcolumns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/fixedheader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/jqueryui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/new_init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/predefined.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/realtime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/server_side.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/examples/state_save.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/images/insert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/js/dataTables.colReorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColReorder/js/dataTables.colReorder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/css/dataTables.colVis.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/css/dataTables.colVis.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/css/dataTables.colvis.jqueryui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/button_order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/exclude_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/group_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/jqueryui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/mouseover.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/new_init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/restore.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/title_callback.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/two_tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/examples/two_tables_identical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/js/dataTables.colVis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/ColVis/js/dataTables.colVis.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/css/dataTables.fixedColumns.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/col_filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/colvis.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/css_size.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/index_column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/left_right_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/right_column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/rowspan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/server-side-processing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/size_fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/size_fluid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/examples/two_columns.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/css/dataTables.fixedHeader.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/examples/header_footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/examples/top_left_right.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/examples/two_tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/examples/zIndexes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/FixedHeader/js/dataTables.fixedHeader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/css/dataTables.keyTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/css/dataTables.keyTable.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/examples/events.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/examples/html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/examples/scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/js/dataTables.keyTable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/KeyTable/js/dataTables.keyTable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/css/dataTables.responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/css/dataTables.responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/child-rows/column-control.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/child-rows/custom-renderer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/child-rows/disable-child-rows.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/child-rows/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/child-rows/right-column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/child-rows/whole-row-control.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/display-control/auto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/display-control/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/display-control/complexHeader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/display-control/fixedHeader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/display-control/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/display-control/init-classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/initialisation/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/initialisation/className.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/initialisation/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/initialisation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/initialisation/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/initialisation/option.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/styling/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/styling/compact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/styling/foundation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/styling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/examples/styling/scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/js/dataTables.responsive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Responsive/js/dataTables.responsive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/css/dataTables.scroller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/css/dataTables.scroller.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/api_scrolling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/data/2500.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/data/ssp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/large_js_source.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/server-side_processing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/examples/state_saving.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/images/loading-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/js/dataTables.scroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/Scroller/js/dataTables.scroller.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/css/dataTables.tableTools.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/css/dataTables.tableTools.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/alter_buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/button_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/collection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/defaults.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/jqueryui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/multi_instance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/multiple_tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/new_init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/pdf_message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/plug-in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/select_column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/select_multi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/select_os.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/select_single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/simple.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/examples/swf_path.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/collection_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/copy_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/csv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/csv_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/pdf_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/print_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/psd/collection.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/psd/copy document.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/psd/file_types.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/psd/printer.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/xls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/images/xls_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/js/dataTables.tableTools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/js/dataTables.tableTools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/swf/copy_csv_xls.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/extensions/TableTools/swf/copy_csv_xls_pdf.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/datatables/jquery.dataTables_themeroller.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/layout/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/manage_accountent.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/manage_accountent.blade.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/company.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/company.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Accountent/AccountentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Accountent/AccountentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_28_001719_create_special_companies_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_28_001719_create_special_companies_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/accountant/updateProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/accountant/updateProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accountent/inc/add_manager_model.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accountent/inc/add_manager_model.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accountent/inc/partial_add_public_manager.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accountent/inc/partial_add_public_manager.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accountent/inc/partial_add_special_manager.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accountent/inc/partial_add_special_manager.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accountent/layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accountent/layout/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accountent/manage_manager.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accountent/manage_manager.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+>>>>>>> accountant-manage-manager
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1598630183" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="accountant-manage-manager" />
+                    <option name="lastUsedInstant" value="1598573656" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="accountant-profile" />
+                    <option name="lastUsedInstant" value="1598480841" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/uxweb/sweet-alert" />
+      <path value="$PROJECT_DIR$/vendor/tightenco/ziggy" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gXRiZCYh5S10lAbXBd5OMAAfG6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/accountent/inc" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\company\resources\views\accountent\inc" />
+      <recent name="C:\xampp\htdocs\company\public\img" />
+      <recent name="C:\xampp\htdocs\company\public\js" />
+      <recent name="C:\xampp\htdocs\company\resources\views\accountent" />
+      <recent name="C:\xampp\htdocs\company\resources\views\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\company\app\Http\Middleware\Accountent" />
+      <recent name="C:\xampp\htdocs\company\public\js\accountant" />
+      <recent name="C:\xampp\htdocs\company\resources\views\accountent" />
+      <recent name="C:\xampp\htdocs\company\resources\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c59558c-0b66-4d67-8a97-bccf6da522cc" name="Default Changelist" comment="" />
+      <created>1598259079081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598259079081</updated>
+      <workItem from="1598259080272" duration="37717000" />
+      <workItem from="1598445020208" duration="3373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598430915154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598430915154" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598393844218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598393844218" />
+    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598552440027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598552440027" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1598442358277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598442358277" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598315139795">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598315139795" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598650062238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598650062238" />
+  </component>
+</project>
